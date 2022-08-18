@@ -9,9 +9,12 @@ como que haz avanzado o sabes mucho de algo.
 3. HTML
 4. VIM
 
-## **Se perfectamente que VIM no es un lenguaje de programacion pero es demasiado extensible, usado por
-todos, configurable al grado que tu decidas que ya es suficiente. Es compatible y descargable para Linux, Mac
-Windows, BSD, Arch-Linux**
+## Se perfectamente que VIM no es un lenguaje de programacion pero es demasiado extensible, usado por todos, configurable al grado que tu decidas que ya es suficiente. Es compatible y descargable para:
+* Linux
+* Mac
+* Windows
+* BSD
+* Arch-Linux.
 
 ## Obsidian es una gran herramienta que tiene ciertas configuraciones y complementos de raiz que son practicamente de VIM
 Sinembargo Obsidian no cuenta con la modularizacion que ya tiene VIM y la abismal diferencia es que VIM si puede programar,
