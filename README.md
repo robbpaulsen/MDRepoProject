@@ -1,7 +1,6 @@
 # MDRepoProject
 
-## Este Proyecto me lo autoimpuse para abordar variso temas en uno solo. Sigo aprendiendo de muchos temas pero el ser autodidacta nunca te hace sentir
-como que haz avanzado o sabes mucho de algo.
+## Este Proyecto me lo autoimpuse para abordar varios temas en uno solo. Sigo aprendiendo de muchos temas pero el ser autodidacta nunca estas seguro de si haz avanzado o sabes mucho de algo.
 
 ## Temas y Lenguajes que se Abordaran :
 1. MarkDown
@@ -9,7 +8,7 @@ como que haz avanzado o sabes mucho de algo.
 3. HTML
 4. VIM
 
-## Se perfectamente que VIM no es un lenguaje de programacion pero es demasiado extensible, usado por todos, configurable al grado que tu decidas que ya es suficiente. Es compatible y descargable para:
+## Se perfectamente que VIM no es un lenguaje de programacion pero es demasiado extensible, usado por todos, configurable al grado que tu decidas que ya es suficiente. Es compatible y descargable para :
 * Linux
 * Mac
 * Windows
